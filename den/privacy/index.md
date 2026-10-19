@@ -16,6 +16,8 @@ Den is a chat in which devices connect directly to each other (a peer-to-peer ne
 
 **The camera** is used only to scan QR codes and to take photos you choose to send.
 
+**The microphone** is used only while you are in a voice call. Your voice goes directly to the other people in the call and never through our server. Calls are not recorded.
+
 **Deleting your data.** In settings choose "Delete identity from this device", or uninstall the app: this removes everything from the phone. Messages you sent stay with the people who received them. More: [Deleting your data](../delete/).
 
 **Contact:** [zemlinski.dev@gmail.com](mailto:zemlinski.dev@gmail.com)
