@@ -4,7 +4,7 @@ title: Den privacy policy
 
 # Den privacy policy
 
-Den is a chat in which devices connect directly to each other (a peer-to-peer network). It is made by an independent developer, zemlinski, who publishes it on Google Play and is responsible for this policy.
+Den is a chat in which devices connect directly to each other (a peer-to-peer network). It is made by an independent developer, zemlin, who publishes it on Google Play and is responsible for this policy.
 
 **Identity.** Your identity (key, name, avatar, status) is created and stays on your device. Den has no accounts and asks for no email or phone number.
 
