@@ -4,6 +4,7 @@ Privacy policies and data deletion pages for my apps, served by GitHub Pages:
 
 | Page | URL |
 |---|---|
+| FindTheWay: privacy policy | https://zemlinski.github.io/findtheway/privacy/ |
 | Den: privacy policy | https://zemlinski.github.io/den/privacy/ |
 | Den: deleting your data | https://zemlinski.github.io/den/delete/ |
 
