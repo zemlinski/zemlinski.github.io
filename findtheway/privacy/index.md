@@ -68,14 +68,22 @@ The developer uses these reports solely to respond to feedback and diagnose or f
 ## 7. Data retention
 
 * Local maps, tracks, saved places, and settings remain on your device until you delete them or uninstall the app. Android's automatic cloud backup and system device migration do not preserve FindTheWay app data.
-* The FindTheWay server keeps access logs of the requests it receives: IP address, time, requested file, response status and user agent. The logs are kept for 14 days and are used only to operate the server and keep it secure.
+* The FindTheWay server keeps access logs of the requests it receives: IP address, time, request method and requested file, protocol, response status, response size, referrer and user agent. Its error log records server error messages, which can include the client's IP address. Both logs are kept for 14 days and are used only to operate the server and keep it secure.
 * Online routing and online search requests go to the external providers described in section 5, not to a server operated by the developer. External providers may retain standard request data according to their own policies.
 * Voluntary feedback and bug reports are retained in Discord until manually deleted or pruned by the developer or upon user request.
 
-## 8. Your choices and rights
+## 8. Legal basis
 
-You can deny location permission, use downloaded data offline, decline online routing or search location bias, toggle these choices in Settings at any time, delete local content, and choose not to send feedback or diagnostic logs. Depending on applicable law, you may also request access, correction, deletion or restriction of personal data processed by the developer by contacting **zemlinski.dev@gmail.com**.
+Under Article 6(1) of the EU General Data Protection Regulation (GDPR), the developer relies on:
 
-## 9. Changes to this policy
+* **legitimate interests (Art. 6(1)(f))** for delivering the files the app requests from the FindTheWay server, including map packages and update checks, for the server's access and error logs, which are needed to run the server and keep it secure, and for sending the requests described in section 5 that the online features you use need, other than those based on consent below;
+* **consent (Art. 6(1)(a))** for online route calculation, for using your location to rank search results (location bias), and for logs attached to a bug report. You can withdraw consent at any time: online routing and location bias in Settings, and logs already sent by asking the developer at **zemlinski.dev@gmail.com** to delete the report. Withdrawal does not affect processing that took place before it;
+* **legitimate interests (Art. 6(1)(f))** for the feedback and bug reports you send and the emails you write to the developer, which are used to reply to you and to diagnose and fix problems.
+
+## 9. Your choices and rights
+
+You can deny location permission, use downloaded data offline, decline online routing or search location bias, toggle these choices in Settings at any time, delete local content, and choose not to send feedback or diagnostic logs. Depending on applicable law, you may also request access, correction, deletion or restriction of personal data processed by the developer, or object to processing based on legitimate interests, by contacting **zemlinski.dev@gmail.com**. You also have the right to lodge a complaint with a data protection supervisory authority: in Poland, the President of the Personal Data Protection Office (Prezes Urzędu Ochrony Danych Osobowych, UODO), or the authority in the EU/EEA country where you live or work or where the alleged infringement took place.
+
+## 10. Changes to this policy
 
 We may update this policy when the app’s data practices change. The current version is published at this page with its revision date.
