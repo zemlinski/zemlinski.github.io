@@ -68,7 +68,7 @@ The developer uses these reports solely to respond to feedback and diagnose or f
 ## 7. Data retention
 
 * Local maps, tracks, saved places, and settings remain on your device until you delete them or uninstall the app. Android's automatic cloud backup and system device migration do not preserve FindTheWay app data.
-* The FindTheWay server keeps access logs of the requests it receives: IP address, time, request method and requested file, protocol, response status, response size, referrer and user agent. Its error log records server error messages, which can include the client's IP address. Both logs are kept for 14 days and are used only to operate the server and keep it secure.
+* The FindTheWay server keeps access logs of the requests it receives: IP address, time, request method and requested file, protocol, response status, response size, referrer and user agent. Its error log records server error messages, which can include the client's IP address. Both logs are kept for up to 15 days, then deleted automatically, and are used only to operate the server and keep it secure.
 * Online routing and online search requests go to the external providers described in section 5, not to a server operated by the developer. External providers may retain standard request data according to their own policies.
 * Voluntary feedback and bug reports are retained in Discord until manually deleted or pruned by the developer or upon user request.
 
