@@ -23,7 +23,7 @@ The following data is normally stored and processed locally on your device:
 * imported or created GPX tracks, saved places, route plans and app settings;
 * your search history: the places you picked from search results (name, coordinates and type, up to 20, newest first). It is never sent anywhere or synchronized, and you can delete single entries, clear the whole list, or turn the history off in Settings, which also deletes it.
 
-FindTheWay does not create a location history on servers operated by the developer. You can remove locally stored data in the app or by uninstalling the app.
+FindTheWay does not create a location history on servers operated by the developer: the download server's access logs (section 7) record IP addresses and requested files, never GPS coordinates. You can remove locally stored data in the app or by uninstalling the app.
 
 FindTheWay disables Android's automatic cloud backup and system device-to-device transfer for app data on the phone and Wear OS. App settings, GPX tracks, saved places, maps, logs and active navigation are not included in those system transfers. The separate phone–Wear OS synchronization described below remains available when you use paired devices.
 
