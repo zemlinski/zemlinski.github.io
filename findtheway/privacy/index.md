@@ -4,7 +4,7 @@ title: FindTheWay privacy policy
 
 # Privacy Policy for FindTheWay
 
-Last updated: November 3, 2026
+Last updated: November 5, 2026
 
 FindTheWay is an outdoor navigation application for Android and Wear OS. This policy explains what data is processed, when it leaves your device, and the choices available to you.
 
@@ -53,8 +53,7 @@ When an online feature or online map source is used, the relevant request data i
 * **BRouter offline routing data** — when a map download includes offline routing, the BRouter routing data files covering that area (each file covers 5° × 5°) are downloaded from brouter.de. The map download list also asks brouter.de for the sizes of these files. The file names identify the area.
 * **Photon (Komoot)** — search text query and language code for online place search. Your current location coordinates are included only if you give explicit consent to use location for search result ranking (location bias); you can revoke or grant this consent at any time in Settings. Reverse geocoding sends the specific map coordinates you deliberately select, as this feature requires coordinates to determine place details.
 * **BRouter / compatible routing providers** — selected route coordinates, routing profile and route options, but only after the explicit consent described above;
-* **OpenFreeMap / OpenStreetMap and map data sources** — vector/raster map tiles, fonts, sprites, Waymarked Trails overlays, and hillshade/elevation tiles from AWS S3, shown online and downloaded for offline hillshading. Tile and map-area requests identify the geographic area being viewed or downloaded and can overlap with your current area when location following is enabled. Providers also receive your IP address and standard technical request headers.
-* **Overpass API mirrors** — when optional hiking POI data is included in an offline-map download, the app sends the geographic bounds of the selected download area to an Overpass mirror.
+* **OpenFreeMap / OpenStreetMap and map data sources** — vector/raster map tiles, fonts, sprites, and hillshade/elevation tiles from AWS S3, shown online and downloaded for offline hillshading. Tile and map-area requests identify the geographic area being viewed or downloaded and can overlap with your current area when location following is enabled. Providers also receive your IP address and standard technical request headers.
 * **Google Play** — if this app version can no longer download map data and you tap Update, the app asks Google Play for an in-app update or opens the app's page in the Play Store.
 
 Third-party providers process data under their own privacy policies. FindTheWay does not control their retention practices. Avoid using online features if you do not want the relevant request data to leave your device.
